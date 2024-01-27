@@ -806,12 +806,12 @@ $utilities: map-merge(
     //custom
     "bg-attachment":(
       property:background-attachment,
-      class:bg-attachment-fixed,
+      class:bg-attachment,
       values:fixed,
     ),
     "obj-fit":(
       property:object-fit,
-      class:obj-fit-cover,
+      class:obj-fit,
       values:cover,
     )
   ),
