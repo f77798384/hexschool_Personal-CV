@@ -9291,11 +9291,11 @@ textarea.form-control-lg {
   z-index: 3 !important;
 }
 
-.bg-attachment-fixed-fixed {
+.bg-attachment-fixed {
   background-attachment: fixed !important;
 }
 
-.obj-fit-cover-cover {
+.obj-fit-cover {
   -o-object-fit: cover !important;
      object-fit: cover !important;
 }

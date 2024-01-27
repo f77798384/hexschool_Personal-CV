@@ -804,12 +804,12 @@ $utilities: map-merge(
     ),
     // scss-docs-end utils-zindex
     //custom
-    "bg-attachment-fixed":(
+    "bg-attachment":(
       property:background-attachment,
       class:bg-attachment-fixed,
       values:fixed,
     ),
-    "obj-fit-cover":(
+    "obj-fit":(
       property:object-fit,
       class:obj-fit-cover,
       values:cover,
